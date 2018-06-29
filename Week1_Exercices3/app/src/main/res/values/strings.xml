@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week1_Exercices3</string>
+    <string name="deerOne">deer</string>
+    <string name="gallery">Gallery</string>
+    <string name="download">Download</string>
+    <string name="changeimage">ChangeImage</string>
+</resources>
